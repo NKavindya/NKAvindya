@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*63huS_CKlpKPOV0GRlMs1g.gif" alt="MasterHead" style="width: 650px; height: 350px;">
+  <img src="https://camo.githubusercontent.com/93afe073729cc60fb8275d7eab889180df8a789670837fec64b28ee864c8e1bb/68747470733a2f2f6a75616e6c752e69732f6173736574732f696d616765732f68656c6c6f2d776f726c642d6865616465722e706e67" alt="MasterHead" style="width: 650px; height: 200px;">
 </div>
-<h1 align="center">Hello 🙋🏽‍♀️, I'm NKavindya</h1>
+<h1 align="center">I'm NKavindya 🙋🏽‍♀️ </h1>
 <h3 align="center">A Passionate Web Developer 👩🏽‍💻| Undergraduate 👩🏽‍🎓</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
