@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Java, JS, PHP, SQL**
 
-- 📫 How to reach me **nipunikavindya@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nkavindyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nkavindyaa" height="30" width="40" /></a>
