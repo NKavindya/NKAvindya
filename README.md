@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1YFE_lec--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z6pkbof42d5ljfxtox3p.png" alt="MasterHead" style="width: 650px; height: 200px;">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1YFE_lec--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z6pkbof42d5ljfxtox3p.png" alt="MasterHead" style="width: 550px; height: 170px;">
 </div>
 <h1 align="center">I'm NKavindya 🙋🏽‍♀️ </h1>
 <h3 align="center">Full-stack Developer 👩🏽‍💻| Undergraduate 👩🏽‍🎓</h3>
