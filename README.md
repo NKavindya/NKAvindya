@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1YFE_lec--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z6pkbof42d5ljfxtox3p.png" alt="MasterHead" style="width: 550px; height: 170px;">
 </div>
-<h1 align="center">I'm NKavindya 🙋🏽‍♀️ </h1>
 <h3 align="center">Developer 👩🏽‍💻| Undergraduate 👩🏽‍🎓</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
@@ -15,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nkavindyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nkavindyaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nkavindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkavindya" height="30" width="40" /></a>
 </p>
 <br>
