@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkavindya&label=Profile%20views&color=0e75b6&style=flat" alt="nkavindya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nkavindyaa" target="blank"><img src="https://img.shields.io/twitter/follow/nkavindyaa?logo=twitter&style=for-the-badge" alt="nkavindyaa" /></a> </p>
-
 - 🌱 I’m currently learning **Angular, React, Flutter**
 
 - 💬 Ask me about **Java, JS, PHP, SQL**
