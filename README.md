@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1YFE_lec--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z6pkbof42d5ljfxtox3p.png" alt="MasterHead" style="width: 550px; height: 170px;">
 </div>
-<h3 align="center">Developer 👩🏽‍💻| Undergraduate 👩🏽‍🎓</h3>
+<h3 align="center">Developer 👩🏽‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkavindya&label=Profile%20views&color=0e75b6&style=flat" alt="nkavindya" /> </p>
 
